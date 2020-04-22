@@ -1,10 +1,16 @@
-
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
 }
 
 /* Title Heading */
+
+
+.navbar-custom {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #1e1e1e!important;
+}
 .heading{
     font-family: 'Montserrat';
     font-size: 4.5rem;
