@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
 }
+=======
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+
+
+/* Title Heading */
+.heading{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+>>>>>>> f8bdc66e32f3c2f349a8192c72aaf3f00457b1df
