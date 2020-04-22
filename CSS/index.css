@@ -12,5 +12,16 @@
     font-family: 'Montserrat';
     font-size: 3.5rem;
     font-weight: 900;
-    line-height: 1.5;
+    line-height: 1.5;   
+    color: white;
+}
+
+.top-right{
+    background-color: #ff9933;
+    padding-bottom: 10rem;
+}
+
+.title-image{
+    width: 50%;
+    margin: 10% 10% 10% 20%;
 }
