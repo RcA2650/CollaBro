@@ -6,6 +6,22 @@
 /* Title Heading */
 
 
+@media(min-width:990px){
+    .title-image{
+        width: 30%;
+        margin: 10% 10% 10% 20%;
+    }
+    .heading{
+        font-family: 'Montserrat';
+        font-size: 3.5rem;
+        font-weight: 900;
+        line-height: 1.5;   
+        color: white;
+        padding-top: 15%;
+        padding-left: 5%;
+    }
+}
+
 .navbar-custom {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -17,6 +33,8 @@
     font-weight: 900;
     line-height: 1.5;   
     color: white;
+    padding-top: 15%;
+    padding-left: 5%;
 }
 
 .top-right{
