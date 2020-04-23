@@ -15,15 +15,13 @@ body {
 /* input focus */
 .login-input:focus {
   border-color: #1e1e1e;
-  box-shadow: 1px 1px 1px #1e1e1e, 0 0 8px #1e1e1e;
+  box-shadow: 0 1px 1px #1e1e1e, 0 0 8px #1e1e1e;
 }
-
 /* login button */
 .login-button {
   background-color: #1e1e1e;
   border-color: #1e1e1e;
 }
-
 .login-button:hover {
   background-color: rgb(61, 59, 59);
   border-color: rgb(61, 59, 59);
