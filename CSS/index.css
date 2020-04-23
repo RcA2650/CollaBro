@@ -9,6 +9,7 @@
 /* .top-row{
     margin-bottom: 0%;
 } */
+
 .top-left{
     background-color: #ff8000;
     padding-bottom: 12%;
@@ -41,6 +42,27 @@
     background-image: linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,0));
     z-index: 99;
 }
+
+.trnsp{
+    transition-property: padding-bottom, padding-top, background-color;
+    transition-duration: 0.5s, 0.5s, 0.5s; 
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    background-color: #1e1e1e;
+}
+
+
+
+
+.nav-item{
+    padding: 0 1rem;;
+}
+
+.nav-link:hover{
+    text-emphasis: bold;
+    color: #ff9933!important;
+}
+
 .heading{
     font-family: 'Montserrat';
     font-size: 4.5rem;
