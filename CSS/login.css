@@ -13,6 +13,7 @@ body {
   background-image: linear-gradient(to bottom, #fd8f20, #f3b97f);
   padding: 1% 3% 2%;
   width: 33%;
+  box-shadow: 0 1px 1px #1e1e1e, 0 0 8px #1e1e1e;
 }
 /* LOGIN HEADING */
 .login-head {
