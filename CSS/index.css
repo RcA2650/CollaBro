@@ -44,10 +44,16 @@
 }
 
 .trnsp{
-    background-color: #1e1e1e;
+    transition-property: padding-bottom, padding-top, background-color;
+    transition-duration: 0.5s, 0.5s, 0.5s; 
     padding-bottom: 0.5rem;
     padding-top: 0.5rem;
+    background-color: #1e1e1e;
 }
+
+
+
+
 .nav-item{
     padding: 0 1rem;;
 }
