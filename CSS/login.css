@@ -1,1 +1,13 @@
+/********* selectors ***********/
 
+/********* classes ***********/
+
+.form-container {
+  margin: 15% 15%;
+}
+.form-control:focus {
+  border-color: #ff9933;
+  box-shadow: inset 0 1px 1px #ff9933, 0 0 8px #ff9933;
+}
+
+/********* ids ***********/
