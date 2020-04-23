@@ -35,3 +35,12 @@ body {
 }
 
 /********* ids ***********/
+
+/* Footer */
+#footer{
+  text-align: center;
+  margin: 7%;
+}
+.foot-ico{
+  padding: 0 0.5rem 2rem;
+}
