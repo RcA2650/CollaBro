@@ -38,9 +38,13 @@ body {
 /********* ids ***********/
 
 /* Footer */
+.bottom-hr{
+  border-bottom: solid 0.35rem #a55200;
+}
 #footer{
   text-align: center;
   margin: 7%;
+  color: white;
 }
 .foot-ico{
   padding: 0 0.5rem 2rem;

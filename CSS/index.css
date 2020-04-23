@@ -89,6 +89,16 @@
 
 }
 
+.strt-btn{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.start-collabing{
+    color: #ff9933;
+    /* padding-right: 1%; */
+}
+
 .title-image{
     width: 50%;
     margin: 30% 10% 10% 20%;
