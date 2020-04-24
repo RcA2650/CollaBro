@@ -1,17 +1,12 @@
 /********* selectors ***********/
-<<<<<<< HEAD
-body {
-=======
 
-body{
+body {
   background-color: #ff9933;
 }
 
-
 /* ids */
 
-#login-title{
->>>>>>> 446477c570c4b60f19608702e7cbd0a6d720bd24
+#login-title {
   background-color: #ff9933;
 }
 
