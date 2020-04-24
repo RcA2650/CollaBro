@@ -22,10 +22,10 @@
 }
 
 
-@media(min-width:990px){
+/* @media(min-width:990px){
     .title-image{
         width: 30%;
-        margin: 10% 10% 10% 20%;
+        margin: 1% 10% 10% 20%;
     }
     .heading{
         font-family: 'Montserrat';
@@ -33,10 +33,10 @@
         font-weight: 900;
         line-height: 1.5;   
         color: white;
-        padding-top: 15%;
+        padding-top: 20%;
         padding-left: 5%;
     }
-}
+} */
 
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255,255,255,1);
@@ -78,7 +78,7 @@
     font-weight: 900;
     line-height: 1.5;   
     color: white;
-    padding-top: 15%;
+    margin-top: 18.5%;
     padding-left: 5%;
 }
 
@@ -101,7 +101,7 @@
 
 .title-image{
     width: 50%;
-    margin: 30% 10% 10% 20%;
+    margin: 38.5% 10% 10% 20%;
 }
 
 /* Feature Box */
@@ -128,10 +128,14 @@
 
 /* Footer */
 
-#footer{
+#footer {
+    background-color: #1e1e1e;
     text-align: center;
-    margin: 7%;
-}
+    margin: 0;
+    padding-top: 10%;
+    padding-bottom: 4%;
+    color: white;
+  }
 .foot-ico{
     padding: 0 0.5rem 2rem;
 }
