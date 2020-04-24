@@ -35,17 +35,15 @@ body {
   border-color: rgb(61, 59, 59);
 }
 
-/********* ids ***********/
-
 /* Footer */
-.bottom-hr{
+.bottom-hr {
   border-bottom: solid 0.35rem #a55200;
 }
-#footer{
+#footer {
   text-align: center;
   margin: 7%;
   color: white;
 }
-.foot-ico{
+.foot-ico {
   padding: 0 0.5rem 2rem;
 }
