@@ -43,7 +43,7 @@
 
   <!-- BODY -->
   <body>
-    <section id="title">
+    <section id="login-title">
       <div class="container-fluid">
         <!-- Nav Bar -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-default navbar-custom" id="navmod">
@@ -66,35 +66,42 @@
             </div>
           </nav>
 
+          <section class="form-container container-sm">
+            <h2 class="login-head">CollaBro</h2>
+            <form>
+              <!-- EMAIL AND PASSWORD -->
+              <div class="form-group">
+                <label class="login-label" for="exampleInputEmail1">Email address</label>
+                <input
+                  type="email"
+                  class="form-control login-input"
+                  id="exampleInputEmail1"
+                  aria-describedby="emailHelp"
+                />
+              </div>
+              <div class="form-group">
+                <label class="login-label" for="exampleInputPassword1">Password</label>
+                <input
+                  type="password"
+                  class="form-control login-input"
+                  id="exampleInputPassword1"
+                />
+              </div>
+              <!-- LOGIN BUTTON -->
+              <button type="submit" class="btn btn-primary login-button">Login</button>
+            </form>
+          </section>
+      </div>
+
     </section>
     <!-- LOGIN FORM CONTAINER -->
-    <section class="form-container container-sm">
-      <h2 class="login-head">CollaBro</h2>
-      <form>
-        <!-- EMAIL AND PASSWORD -->
-        <div class="form-group">
-          <label class="login-label" for="exampleInputEmail1">Email address</label>
-          <input
-            type="email"
-            class="form-control login-input"
-            id="exampleInputEmail1"
-            aria-describedby="emailHelp"
-          />
-        </div>
-        <div class="form-group">
-          <label class="login-label" for=" exampleInputPassword1">Password</label>
-          <input
-            type="password"
-            class="form-control login-input"
-            id="exampleInputPassword1"
-          />
-        </div>
-        <!-- LOGIN BUTTON -->
-        <button type="submit" class="btn btn-primary login-button">Login</button>
-      </form>
-    </section>
+    <!-- <section id="login-title">
 
+
+    </section> -->
+    
 <hr class="bottom-hr">
+    
     <footer id="footer">
       <i class="foot-ico fab fa-twitter"></i>
       <i class="foot-ico fab fa-facebook-f"></i>
