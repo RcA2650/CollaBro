@@ -1,11 +1,5 @@
 /********* selectors ***********/
-
-
-
-
-/* ids */
-
-#login-title{
+body {
   background-color: #ff9933;
 }
 
@@ -21,7 +15,6 @@
   width: 33%;
   box-shadow: 0 1px 1px #1e1e1e, 0 0 8px #1e1e1e;
 }
-
 /* LOGIN HEADING */
 .login-head {
   color: white;
