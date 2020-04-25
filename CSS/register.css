@@ -1,6 +1,3 @@
-
-
-
 body {
   width: 100%;
   height: 100%;
@@ -19,15 +16,15 @@ body {
 
 /* ids */
 
-#login-title {
+#register-title {
   background-color: #ff9933;
 }
 
 /********* classes ***********/
-.login-label {
+.register-label {
   color: white;
 }
-/* login form */
+/* register form */
 .form-container {
   margin: 15% auto 15%;
   background-image: linear-gradient(to bottom, #fd8f20, #f3b97f);
@@ -35,23 +32,23 @@ body {
   width: 33%;
   box-shadow: 3px 4px 40px #915700, 0 0 8px #000000;
 }
-/* LOGIN HEADING */
-.login-head {
+/* register HEADING */
+.register-head {
   color: white;
   text-align: center;
   line-height: 5rem;
 }
 /* input focus */
-.login-input:focus {
+.register-input:focus {
   border-color: #1e1e1e;
   box-shadow: 0 1px 1px #1e1e1e, 0 0 8px #1e1e1e;
 }
-/* login button */
-.login-button {
+/* register button */
+.register-button {
   background-color: #1e1e1e;
   border-color: #1e1e1e;
 }
-.login-button:hover {
+.register-button:hover {
   background-color: rgb(61, 59, 59);
   border-color: rgb(61, 59, 59);
 }
@@ -92,21 +89,15 @@ body {
   padding-right: 0;
 }
 
-
-footer {
+#footer {
   width: 100%;
   background-color: #1e1e1e;
   text-align: center;
   margin: 0;
   padding-top: 10%;
-  padding-bottom: 5%;
+  padding-bottom: 4%;
   color: white;
 }
 .foot-ico {
   padding: 0 0.5rem 2rem;
 }
-
-
-
-
-
