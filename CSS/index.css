@@ -24,10 +24,7 @@ body {
     margin-bottom: 0%;
 } */
 
-.top-left{
-    background-color: #ff8000;
-    padding-bottom: 12%;
-}
+
 
 
 /* @media(min-width:990px){
@@ -91,11 +88,15 @@ body {
     padding-left: 5%;
 }
 
-.top-right{
+.top-left{
     background-color: #ff9933;
     padding-bottom: 10rem;
-    border-left: solid 0.35rem #a55200;
+    border-right: solid 0.35rem #a55200;
 
+}
+.top-right{
+    background-color: #ff8000;
+    padding-bottom: 12%;
 }
 
 .strt-btn{
