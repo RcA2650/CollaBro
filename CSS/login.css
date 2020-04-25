@@ -26,6 +26,7 @@ body {
 .login-head {
   color: white;
   text-align: center;
+  font-size: 1.75em;
 }
 /* input focus */
 .login-input:focus {
