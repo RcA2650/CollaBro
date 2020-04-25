@@ -45,6 +45,7 @@ body {
 }
 /* register button */
 .register-button {
+  margin-top: 3%;
   background-color: #1e1e1e;
   border-color: #1e1e1e;
 }
