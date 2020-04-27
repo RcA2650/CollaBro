@@ -1,12 +1,27 @@
 
 
-
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
-  width: 100%;
+  max-width: 100vw;
   height: 100%;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+}
+
+@media all and (min-width: 0px) and (max-width: 800px){
+  .form-box {
+    margin-top: 55%;
+  }
+
+  
+  /* .bottom-hr {
+    position: fixed;  
+  } */
 }
 
 /********* selectors ***********/
@@ -102,6 +117,9 @@ footer {
   padding-top: 10%;
   padding-bottom: 5%;
   color: white;
+  /* position: fixed;
+  bottom: 0; */
+  /* margin-top: -200px; */
 }
 .foot-ico {
   padding: 0 0.5rem 2rem;
