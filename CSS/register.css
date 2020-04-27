@@ -21,6 +21,14 @@ body {
 }
 
 /********* classes ***********/
+
+@media all and (min-width: 0px) and (max-width: 800px){
+  #login-box{
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
 .register-label {
   color: white;
 }

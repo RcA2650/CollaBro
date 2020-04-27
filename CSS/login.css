@@ -14,8 +14,10 @@ body {
 }
 
 @media all and (min-width: 0px) and (max-width: 800px){
-  .form-box {
-    margin-top: 55%;
+  #login-box{
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
   
