@@ -38,6 +38,10 @@ body {
   text-align: center;
   line-height: 5rem;
 }
+/* register-field */
+.register-field {
+  padding: 2%;
+}
 /* input focus */
 .register-input:focus {
   border-color: #1e1e1e;
