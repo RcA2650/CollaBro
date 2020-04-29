@@ -30,6 +30,9 @@ body {
     margin-left: 6%;
     margin-right: 6%;
   }
+  .blah{
+    margin-top: 30%;
+  }
 }
 .register-label {
   color: white;

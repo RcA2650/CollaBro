@@ -22,7 +22,9 @@ body {
     margin-right: 10%;
   }
 
-  
+  .blah{
+    margin-top: 55%;
+  }
   /* .bottom-hr {
     position: fixed;  
   } */
@@ -38,9 +40,7 @@ body {
 
 /* ids */
 
-#login-title {
-  background-color: #ff9933;
-}
+
 
 /********* classes ***********/
 .login-label {
@@ -88,7 +88,7 @@ body {
 .row {
   align-items: center;
 }
-.container-fluid .info-box {
+ .info-box {
   margin-left: 25%;
   margin-right: 25%;
   margin-bottom: 15%;
