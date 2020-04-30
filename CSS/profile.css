@@ -12,3 +12,103 @@ body {
     font-family: 'Montserrat';
     background-color: #ff9933;
 }
+
+.container-fluid{
+    padding: 10% 10% 0 10%;
+}
+
+
+#full{
+    margin-bottom: 10%;
+}
+
+.nav-link.active{
+    border-top: 2px solid #ff9955;
+}
+
+.prof-box{
+    padding: 0;
+    border-radius: 5px ;
+    box-shadow: 3px 4px 40px #915700, 0 0 6px #000000;
+    background-color: white;
+}
+
+.tab-content{
+    padding: 1% 2% 2% 1%;
+}
+
+
+.col-sm-3{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 8%;
+}
+
+.prof-pic-container{
+    height: 180px;
+    width: 180px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.prof-pic{
+    width: inherit;
+    border-radius: 100%;
+    border: solid 1px seashell;
+    box-shadow: 1px 1px 5px #000000;
+    margin-top: 20%;
+}
+
+.prof-pic-container p{
+    font-style: italic;
+    padding: 3% 0 0 2%;
+    color: #376bfc;
+}
+
+
+
+.about-details{
+    margin-top: 10%;
+    border-left: 2px solid #000000;
+    padding-left: 5%;
+}
+
+.side-about-details{
+    margin-top: 35%;
+    border-left: 1px solid #000000;
+    padding-left: 15%;
+    line-height: 1.4rem;
+}
+
+
+
+.skills-home{
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
+/* Footer */
+.bottom-hr {
+    border-bottom: solid 0.25rem #a55200;
+    margin: 0;
+    padding-right: 0;
+  }
+  
+  
+  footer {
+    width: 100%;
+    background-color: #1e1e1e;
+    text-align: center;
+    margin: 0;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    color: white;
+    /* position: fixed;
+    bottom: 0; */
+    /* margin-top: -200px; */
+  }
+  .foot-ico {
+    padding: 0 0.5rem 2rem;
+  }
