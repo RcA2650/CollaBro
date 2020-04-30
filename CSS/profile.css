@@ -19,9 +19,13 @@ body {
 
 
 #full{
-    margin-bottom: 10%;
+    margin-bottom: 18%;
 }
-
+@media all and (min-width: 0px) and (max-width: 800px){
+    .blah{
+        margin-top: 55%;
+      }
+}
 .nav-link.active{
     border-top: 2px solid #ff9955;
 }
